@@ -1,6 +1,6 @@
 /**
  * Author: Loc Nguyen
- * Date: 2022/08/22
+ * Date: 2022/08/23
  *
  * A simple hello world program in C
  *
@@ -10,7 +10,8 @@
 
 int main(int argc, char **argv) {
 
-  printf("Loc Nguyen!\n");
+  printf("Hello World, I'm Loc Nguyen!\n");
+  printf("My major is Computer Science!\n");
 
   return 0;
 }
